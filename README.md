@@ -11,3 +11,8 @@ The MNIST database (Modified National Institute of Standards and Technology data
 
 ## Fully Connected NN
 ![image](https://user-images.githubusercontent.com/64374947/148940819-a5806f90-b71b-4c71-a3fa-f8d30c8ac09a.png)
+
+
+## DEVELOPED BY
+* *Ahmed Atya*
+* *Nermeen Hamed* 
