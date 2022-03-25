@@ -15,4 +15,4 @@ The MNIST database (Modified National Institute of Standards and Technology data
 
 ## DEVELOPED BY
 * *Ahmed Atya*
-* *Nermeen Hamed* 
+* [*Nermeen Hamed*](https://github.com/nermeen-hamed) 
